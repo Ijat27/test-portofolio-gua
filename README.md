@@ -12,8 +12,7 @@ Hi! I'm a **2nd semester student** at **Binus University Malang**, majoring in *
 
 ## 🔗 Live Demo
 
-> **[https://your-site.vercel.app](https://your-site.vercel.app)**
-> *(Ganti dengan link Vercel/Netlify kamu setelah deploy)*
+> **https://portofolio-gua.vercel.app/**
 
 ---
 
@@ -53,41 +52,6 @@ portfolio/
 │   └── photo.jpg    # Foto profil
 └── README.md        # Dokumentasi ini
 ```
-
----
-
-## 🚀 Cara Menjalankan
-
-### Lokal (di komputer)
-
-1. Clone repository ini:
-   ```bash
-   git clone https://github.com/ljat27/test-portofolio.git
-   ```
-2. Masuk ke folder:
-   ```bash
-   cd test-portofolio
-   ```
-3. Buka file `index.html` langsung di browser — selesai! ✅
-
-> Atau gunakan ekstensi **Live Server** di VS Code untuk auto-reload.
-
-### Deploy ke Vercel
-
-1. Push semua file ke GitHub (sudah ✅)
-2. Buka [vercel.com](https://vercel.com) → **New Project**
-3. Import repository `test-portofolio`
-4. Biarkan semua setting default → klik **Deploy**
-5. Link live siap dibagikan! 🎉
-
-### Deploy ke Netlify
-
-1. Buka [netlify.com](https://netlify.com) → **Add new site** → **Import from Git**
-2. Pilih repository `test-portofolio`
-3. Publish directory: `/` (root)
-4. Klik **Deploy site** ✅
-
----
 
 ## 📸 Preview
 
